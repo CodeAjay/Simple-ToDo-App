@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 10px;
+  background: #2f6e62;
+}
+
+.App {
+  width: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: yellowgreen;
+  padding: 0px;
+  border-radius: 29px;
+}
